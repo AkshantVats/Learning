@@ -1,0 +1,14 @@
+{
+    "testExplorer.addToEditorContextMenu": true,
+    "testExplorer.showOnRun": true,
+    "nxunitExplorer.logpanel": true,
+    "dotnet-test-explorer.autoExpandTree": true,
+    "dotnet-test-explorer.autoWatch": true,
+    "dotnet-test-explorer.runInParallel": true,
+    "dotnet-test-explorer.testProjectPath": "*",
+    "nxunitExplorer.modules": [
+        "*/*.dl"
+    ],
+    "nxunitExplorer.monoruntime": true,
+    "nxunitExplorer.skippattern": ""
+}

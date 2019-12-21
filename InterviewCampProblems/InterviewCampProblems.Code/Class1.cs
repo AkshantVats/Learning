@@ -2,7 +2,11 @@
 
 namespace InterviewCampProblems.Code
 {
-    public class Class1
+    public class TraversingArray
     {
+        public string Print()
+        {
+            return "Hello";
+        }
     }
 }
