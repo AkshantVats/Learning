@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCampProblems.Test", "InterviewCampProblems.Test\InterviewCampProblems.Test.csproj", "{2FB5EB71-ACE2-4671-AB6B-D4843A55C079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewCampProblems.Code", "InterviewCampProblems.Code\InterviewCampProblems.Code.csproj", "{31D555E8-70F9-4F09-8CB7-E65C9C2DA3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB5EB71-ACE2-4671-AB6B-D4843A55C079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB5EB71-ACE2-4671-AB6B-D4843A55C079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB5EB71-ACE2-4671-AB6B-D4843A55C079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB5EB71-ACE2-4671-AB6B-D4843A55C079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D555E8-70F9-4F09-8CB7-E65C9C2DA3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D555E8-70F9-4F09-8CB7-E65C9C2DA3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D555E8-70F9-4F09-8CB7-E65C9C2DA3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D555E8-70F9-4F09-8CB7-E65C9C2DA3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1823DB88-CAD6-4E64-B180-9DC3E5FB154E}
+	EndGlobalSection
+EndGlobal
