@@ -10,3 +10,5 @@
   2. Given an array of numbers, move each zero number at the end of the array. e.g, [1,0,5,0,8] -> [1,5,8,0,0].
 
   3. Given a sentence, reverse the words of the sentence.For example,"i live in a house" becomes "house a in live i".
+
+  4. Given an array, reverse the order of its elements.For example, [3,5,2,5,2,3,9] → [9,3,2,5,2,5,3]
