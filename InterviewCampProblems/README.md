@@ -12,3 +12,5 @@
   3. Given a sentence, reverse the words of the sentence.For example,"i live in a house" becomes "house a in live i".
 
   4. Given an array, reverse the order of its elements.For example, [3,5,2,5,2,3,9] → [9,3,2,5,2,5,3]
+
+  5. 2 Sum Problem: Given a sorted array of integers, find two numbers in the array that sum to a given integer target.For example, if a = [1,2,3,5,6,7] and target = 11, the answer will be 5 and 6.
