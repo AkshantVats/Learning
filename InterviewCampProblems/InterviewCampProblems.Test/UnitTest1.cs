@@ -14,7 +14,7 @@ namespace InterviewCampProblems.Test {
             int[] expected = new int[] { 1, 2, 2, 5, 6, 6, 8, 8 };
             int[] arr = new int[] { 1, 2, 5, 6, 8, -1, -1, -1 };
             var actual = Class1.CloneEvenNumbers (arr);
-            Assert.Equal (actual, expected);
+            Assert.Equal (expected, actual);
         }
 
         [Fact]
@@ -23,7 +23,7 @@ namespace InterviewCampProblems.Test {
             int[] expected = null;
             int[] arr = null;
             var actual = Class1.CloneEvenNumbers (arr);
-            Assert.Equal (actual, expected);
+            Assert.Equal (expected, actual);
         }
 
         [Fact]
@@ -32,16 +32,16 @@ namespace InterviewCampProblems.Test {
             int[] expected = new int[] {-1, -1, -1, -1, -1, -1, -1, -1 };
             int[] arr = new int[] {-1, -1, -1, -1, -1, -1, -1, -1 };
             var actual = Class1.CloneEvenNumbers (arr);
-            Assert.Equal (actual, expected);
+            Assert.Equal (expected, actual);
         }
 
         [Fact]
         public void Test4 () {
 
-            int[] expected = null;
+            int[] expected = new int[] { };
             int[] arr = new int[] { };
             var actual = Class1.CloneEvenNumbers (arr);
-            Assert.Equal (actual, expected);
+            Assert.Equal (expected, actual);
         }
 
         [Fact]
@@ -50,7 +50,7 @@ namespace InterviewCampProblems.Test {
             int[] expected = new int[] { 1, 3, 5 };
             int[] arr = new int[] { 1, 3, 5 };
             var actual = Class1.CloneEvenNumbers (arr);
-            Assert.Equal (actual, expected);
+            Assert.Equal (expected, actual);
         }
 
     }

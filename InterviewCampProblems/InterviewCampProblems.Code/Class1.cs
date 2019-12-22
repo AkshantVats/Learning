@@ -10,7 +10,7 @@ namespace InterviewCampProblems.Code {
         public static int[] CloneEvenNumbers (int[] arr) {
             if (arr == null || arr.Length == 0) {
                 System.Console.WriteLine ("Null or Empty array");
-                return null;
+                return arr;
             }
             int i = arr.Length - 1;
             int j = GetLastElementindex (arr);
