@@ -1,19 +1,15 @@
-using InterviewCampProblems.Code;
 using System;
+using InterviewCampProblems.Code;
 using Xunit;
 
-namespace InterviewCampProblems.Test
-{
-    public class UnitTest1
-    {
+namespace InterviewCampProblems.Test {
+    public class UnitTest1 {
         [Fact]
-        public void Test1()
-        {
-            TraversingArray x = new TraversingArray();
-            var y = x.Print();
+        public void Test1 () {
+            TraversingArray x = new TraversingArray ();
+            var y = x.Print ();
 
-            Assert.Equal("Hello", y);
-
+            Assert.Equal ("Hello", y);
 
         }
     }
