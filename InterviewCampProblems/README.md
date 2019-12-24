@@ -21,4 +21,6 @@
 
   8. You are given an array of integers. Rearrange the array so that all zeroes are at the beginning of the array.For example,a = [4,2,0,1,0,3,0] -> [0,0,0,1,2,3,4]
 
-  9. Given an array of integers, rearrange the elements such that all zeros aremoved to the end of the array.
+  9. Given an array of integers, rearrange the elements such that all zeros are moved to the end of the array.
+
+  10. You are given an array of integers and a pivot. Rearrange the array in the following order:[all elements less than pivot, elements equal to pivot, elements greater than pivot]For example,a = [5,2,4,4,6,4,4,3] and pivot = 4 --> result = [3,2,4,4,4,4,6,5].
