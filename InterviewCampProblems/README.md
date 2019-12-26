@@ -30,3 +30,5 @@
   12. Given an array of integers that can be both +ve and -ve, find the contiguous subarray with the largest sum.For example:  [1,2,-1,2,-3,2,-5]  -> first 4 elements have the largest sum. Return (0,3)
 
   13. Given an array of positive integers, find a subarray that sums to a given number X.For e.g, input = [1,2,3,5,2] and X=8, Result = [3,5] (indexes 2,3)
+
+  14. Given a String, find the longest substring with unique characters.For example: "whatwhywhere" --> "atwhy"
