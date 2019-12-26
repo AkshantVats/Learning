@@ -34,3 +34,5 @@
   14. Given a String, find the longest substring with unique characters.For example: "whatwhywhere" --> "atwhy"
 
   15. Given an array of integers, both -ve and +ve, find a contiguous subarray that sums to 0.For example: [2,4,-2,1,-3,5,-3] --> [4,-2,1,-3]
+
+  16. Given an array of positive and negative integers, find a subarray whose sum equals X. For example: Input = [2,4,-2,1,-3,5,-3], X = 5 --> Result = [2,4,-2,1]
