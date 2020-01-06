@@ -40,3 +40,5 @@
   17. Given a sorted array, search for a target item.( Binary search)
 
   18. Given a sorted array that can contain duplicates, find the first occurrence of the target element. For example:A = [1,3,4,6,6,6,7] and Target = 6, return index 3.
+
+  19. You are given a sorted array A and a target T. If the target is found, return the index. If not,return the index where it would be placed if inserted in order.For example,A = [1,2,4,4,5,6,8] and T = 3, return index 2A = [1,2,4,4,5,6,8] and T = 0, return index 0A = [1,2,4,4,5,6,8] and T = 4, return index 2, 3 or 4 (they're all valid).
