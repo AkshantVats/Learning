@@ -38,3 +38,5 @@
   16. Given an array of positive and negative integers, find a subarray whose sum equals X. For example: Input = [2,4,-2,1,-3,5,-3], X = 5 --> Result = [2,4,-2,1]
 
   17. Given a sorted array, search for a target item.( Binary search)
+
+  18. Given a sorted array that can contain duplicates, find the first occurrence of the target element. For example:A = [1,3,4,6,6,6,7] and Target = 6, return index 3.
