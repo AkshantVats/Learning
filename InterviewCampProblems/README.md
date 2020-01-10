@@ -48,3 +48,5 @@
   21. Given an array that is cyclically sorted, find the minimum element. A cyclically sorted array is a sorted array rotated by some number of elements. Assume all elements are unique.For example:A = [4,5,1,2,3], which is just [1,2,3,4,5] rotated by 2 Result = index 2
 
   22. Search Array of Unknown length You are given an array, but you don't know the length. Write a program to find a target element in the array.
+
+  23. Find the square root of an integer X. For example, squareRoot(4) = 2.If X is not a perfect square, find the integer floor of the square root. For example,squareRoot(5) & squareRoot(8) will return 2. squareRoot(9) will return 3.
