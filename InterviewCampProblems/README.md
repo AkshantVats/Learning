@@ -52,3 +52,5 @@
   23. Find the square root of an integer X. For example, squareRoot(4) = 2.If X is not a perfect square, find the integer floor of the square root. For example,squareRoot(5) & squareRoot(8) will return 2. squareRoot(9) will return 3.
 
   24. A peak element in an array A is an A[i] where its neighboring elements are less than A[i].So, A[i - 1] < A[i] and A[i + 1] < A[i].Assume there are no duplicates. Also, assume that A[-1] and A[length] are negative infinity (-∞).So A[0] can be a peak if A[1] < A[0].A = [1,3,4,5,2] => Peak = 5 A = [5,3,1] => Peak = 5 A = [1,3,5] => Peak = 5
+
+  25. Find the nth number in the Fibonacci series. Fibonacci series is as follows:1, 1, 2, 3, 5, 8, 13, 21, .. After the first two 1’s, each number is the sum of the previous two numbers.
