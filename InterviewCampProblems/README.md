@@ -54,3 +54,5 @@
   24. A peak element in an array A is an A[i] where its neighboring elements are less than A[i].So, A[i - 1] < A[i] and A[i + 1] < A[i].Assume there are no duplicates. Also, assume that A[-1] and A[length] are negative infinity (-∞).So A[0] can be a peak if A[1] < A[0].A = [1,3,4,5,2] => Peak = 5 A = [5,3,1] => Peak = 5 A = [1,3,5] => Peak = 5
 
   25. Find the nth number in the Fibonacci series. Fibonacci series is as follows:1, 1, 2, 3, 5, 8, 13, 21, .. After the first two 1’s, each number is the sum of the previous two numbers.
+
+  26. Power Function: Implement a function to calculate X^N. Both X and N can be positive or negative. You can assume that overflow doesn't happen.(Try doing it in ​O(log(N))​ time)For example: 2 ^ 2  = 4  2 ^ -2 = 0.25 -2 ^ 3  = -8
