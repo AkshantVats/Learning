@@ -58,3 +58,5 @@
   26. Power Function: Implement a function to calculate X^N. Both X and N can be positive or negative. You can assume that overflow doesn't happen.(Try doing it in ​O(log(N))​ time)For example: 2 ^ 2  = 4  2 ^ -2 = 0.25 -2 ^ 3  = -8
 
   27. Given an array of integers, print all combinations of size X.
+
+  28. Phone Number Mnemonics: Given an N digit phone number, print all the strings that can be made from that phone number. Since 1 and 0 don't correspond to any characters, ignore them.
