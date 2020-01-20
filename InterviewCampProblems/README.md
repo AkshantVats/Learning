@@ -56,3 +56,5 @@
   25. Find the nth number in the Fibonacci series. Fibonacci series is as follows:1, 1, 2, 3, 5, 8, 13, 21, .. After the first two 1’s, each number is the sum of the previous two numbers.
 
   26. Power Function: Implement a function to calculate X^N. Both X and N can be positive or negative. You can assume that overflow doesn't happen.(Try doing it in ​O(log(N))​ time)For example: 2 ^ 2  = 4  2 ^ -2 = 0.25 -2 ^ 3  = -8
+
+  27. Given an array of integers, print all combinations of size X.
