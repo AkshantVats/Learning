@@ -60,3 +60,5 @@
   27. Given an array of integers, print all combinations of size X.
 
   28. Phone Number Mnemonics: Given an N digit phone number, print all the strings that can be made from that phone number. Since 1 and 0 don't correspond to any characters, ignore them.
+
+  29. Given an array of integers A, print all its subsets.For example:Input:​ [1, 2, 3]Output:[][1][2][3][1, 2][1, 3][2, 3][1, 2, 3]
