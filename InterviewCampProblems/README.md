@@ -64,3 +64,5 @@
   29. Given an array of integers A, print all its subsets.For example:Input:​ [1, 2, 3]Output:[][1][2][3][1, 2][1, 3][2, 3][1, 2, 3]
 
   30. Given an array A, print all permutations of size X.For example,Input:A = [1,2,3]X = 2Output:[1, 2][1, 3][2, 1][2, 3][3, 1][3, 2]
+
+  31. Coin Change Problem: Given a set of coin denominations, print out the different ways you can make a target amount. You can use as many coins of each denomination as you like.For example: If coins are [1,2,5] and the target is 5, output will be:[1,1,1,1,1][1,1,1,2][1,2,2][5]
