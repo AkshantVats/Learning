@@ -86,3 +86,5 @@
   40. Find if a given Linked List has a cycle.
 
   41. Given a linked list that has a cycle, find the length of the cycle. The length is in number of nodes.
+
+  42. Find the median node of a linked list. For example: 1 -> 2 -> 3 -> 4 -> 5      Median node is 3.
