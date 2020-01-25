@@ -74,3 +74,5 @@
   34. WordBreakProblem​: Given a String S, which contains letters and no spaces, determine if you can break it into valid words. Return one such combination of words.You can assume that you are provided a dictionary of English words. For example:S = "ilikemangotango" Output:Return any one of these:"i like mango tango""i like man go tan go""i like mango tan go""i like man go tango" -- Not Done
 
   35. Linked List Implementation
+
+  36. You are given a LinkedList with nodes that have values 0,1 or 2.Sort the linked list.

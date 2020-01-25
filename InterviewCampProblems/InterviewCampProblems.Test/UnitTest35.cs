@@ -14,7 +14,7 @@ namespace InterviewCampProblems.Test {
             int[] expected = new int[] { 1, 2 };
             var linkedList = new LinkedList (new Node (null, 1));
             linkedList.InsertNode (1, new Node (null, 2));
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
         [Fact]
@@ -23,7 +23,7 @@ namespace InterviewCampProblems.Test {
             var linkedList = new LinkedList (new Node (null, 1));
             linkedList.InsertNode (1, new Node (null, 2));
             linkedList.InsertNode (1, new Node (null, 3));
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
         [Fact]
@@ -33,7 +33,7 @@ namespace InterviewCampProblems.Test {
             linkedList.InsertNode (1, new Node (null, 2));
             linkedList.InsertNode (1, new Node (null, 3));
             linkedList.RemoveNode (2);
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
         [Fact]
@@ -53,7 +53,7 @@ namespace InterviewCampProblems.Test {
             linkedList.InsertNode (1, new Node (null, 2));
             linkedList.InsertNode (2, new Node (null, 3));
             linkedList.RemoveNode (2);
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
         [Fact]
@@ -63,7 +63,7 @@ namespace InterviewCampProblems.Test {
             linkedList.InsertNode (1, new Node (null, 2));
             linkedList.InsertNode (2, new Node (null, 3));
             linkedList.RemoveHead ();
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
         [Fact]
@@ -73,7 +73,7 @@ namespace InterviewCampProblems.Test {
             linkedList.InsertNode (1, new Node (null, 2));
             linkedList.InsertNode (2, new Node (null, 3));
             linkedList.RemoveNode (1);
-            Assert.Equal (expected, linkedList.PrintLinkedList ());
+            Assert.Equal (expected, linkedList.ToArray ());
         }
 
     }
