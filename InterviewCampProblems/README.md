@@ -68,3 +68,9 @@
   31. Coin Change Problem: Given a set of coin denominations, print out the different ways you can make a target amount. You can use as many coins of each denomination as you like.For example: If coins are [1,2,5] and the target is 5, output will be:[1,1,1,1,1][1,1,1,2][1,2,2][5]
 
   32. Maze Problem: You are given a 2D array that represents a maze. It can have 2 values - 0 and 1. 1 represents a wall and 0 represents a path.The objective is to reach the bottom right corner, i.e, A[A.length-1][A.length-1]. You start fromA[0][0]. You can move in 4 directions - up, down, left and right. Find if a path exists to the bottom right of the maze.For example, a path exists in the following maze:0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0
+
+  33. SudokuSolver:​ Given a Sudoku board, find a solution. The board can have some squares filled out already. You have to fill the rest of the squares.(Rules of Sudoku are as follows: In each column, row and 3 x 3 square, you cannot have duplicate numbers. Also, only numbers 1-9 are allowed.) -- Not Done
+
+  34. WordBreakProblem​: Given a String S, which contains letters and no spaces, determine if you can break it into valid words. Return one such combination of words.You can assume that you are provided a dictionary of English words. For example:S = "ilikemangotango" Output:Return any one of these:"i like mango tango""i like man go tan go""i like mango tan go""i like man go tango" -- Not Done
+
+  35. Linked List Implementation
