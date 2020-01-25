@@ -84,3 +84,5 @@
   39. Follow Up: Given a node N in a Linked List, can you delete it without the previous node in O(1) time? -- Not Done
 
   40. Find if a given Linked List has a cycle.
+
+  41. Given a linked list that has a cycle, find the length of the cycle. The length is in number of nodes.
