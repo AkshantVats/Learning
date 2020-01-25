@@ -76,3 +76,5 @@
   35. Linked List Implementation
 
   36. You are given a LinkedList with nodes that have values 0,1 or 2.Sort the linked list.
+
+  37. Odd Even Linked List: Given a LinkedList L separate it into 2 LinkedLists. One contains L's odd nodes and the other contains L's even nodes.For example:Input: Head -> 1 -> 2 -> 3 -> 4 -> 5Result 1: Head -> 1 -> 3 -> 5Result 2: Head -> 2 -> 4
