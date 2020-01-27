@@ -90,3 +90,5 @@
   42. Find the median node of a linked list. For example: 1 -> 2 -> 3 -> 4 -> 5      Median node is 3.
 
   43. Given a Linked List with a cycle, find the node where the cycle begins.For example, node 2 in this linked list: 1->2->3->4->5->2
+
+  44. Implement a data structure for a Least Recently Used (LRU) cache.
