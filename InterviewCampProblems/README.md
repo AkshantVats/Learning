@@ -98,6 +98,8 @@
   46. Reverse a linked list. You should use O(1) space.
 
   47. Given a Linked List, determine if it is a Palindrome. For example, the following lists are palindromes:
-A -> B -> C -> B -> A
-A -> B -> B -> A
-K -> A -> Y -> A -> K
+   A -> B -> C -> B -> A
+   A -> B -> B -> A
+   K -> A -> Y -> A -> K
+
+  48. Find if a given number N exists in a stack S
