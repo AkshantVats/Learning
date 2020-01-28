@@ -103,3 +103,5 @@
    K -> A -> Y -> A -> K
 
   48. Find if a given number N exists in a stack S
+
+  49. Implement a Queue using 2 stacks.
