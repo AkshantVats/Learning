@@ -105,3 +105,7 @@
   48. Find if a given number N exists in a stack S
 
   49. Implement a Queue using 2 stacks.
+
+  50. Use an array to implement 2 stacks. -- Not Done
+
+  51. Implement a Stack with a max() function. This function runs in O(1) time and returns the value of the maximum number on the stack
