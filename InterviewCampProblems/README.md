@@ -109,3 +109,17 @@
   50. Use an array to implement 2 stacks. -- Not Done
 
   51. Implement a Stack with a max() function. This function runs in O(1) time and returns the value of the maximum number on the stack
+
+  52. Given an arithmetic expression with *,/,-&+ operators and single digit numbers, evaluate it and return the result. -- Not Done
+
+  53. Implement a Queue using an array. -- Not Done
+
+  54. Given an array of integers A, find the sum of each sliding window of size K.Variation:​ Instead of an array, what if you were presented with a ​stream​ of numbers. A new number can be added anytime. You want to find the sum of the last K elements.Note​: The above problem can be solved without a Queue as well - just maintain a sum with 2pointers. However, a queue is needed for the Variation problem. We use this problem to illustrate the sliding window concept. -- Not Done
+
+  55. You are given stock prices and the corresponding day of each stock price.For example:(32, 1), (45, 1), (37,2), (42,3), ..Here, 32 is the price and 1 is the day of the price.Say you are given these prices as an input stream. You should provide a function for the user to input a stock price and day. Your system should be able to tell the maximum stock price in the last 3 days.  -- Not Done
+
+  56. Implement a Queue with O(1) lookup of the Maximum element. --Not Done
+
+  57. Maximum of Sliding Window​: Given an array A and an integer K, find the maximum element in each sliding window of size K.For example,if A = [4,6,5,2,4,7] and K = 3, windows are as follows:[​4,6,5​,2,4,7] : Max = 6[4,​6,5,2​,4,7] : Max = 6[4,6,​5,2,4​,7] : Max = 5[4,6,5,​2,4,7​] : Max = 7 Output: 6,6,5,7 -- Not Done
+
+  58. 
